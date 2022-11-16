@@ -1,0 +1,39 @@
+h2 {
+  color: blue;
+  background-color: yellow;
+}
+
+p {
+  color: blueviolet;
+}
+
+li {
+  background-color: #dd0000;
+}
+
+body.whatever h2 {
+  color: red;
+}
+body.whatever p {
+  line-height: 1.5;
+  font-family: "Heebo";
+}
+body.whatever ul {
+  padding: 20px;
+}
+
+.btn-warning {
+  background: url("/imgs/warning.png");
+}
+
+.btn-info {
+  background: url("/imgs/info.png");
+}
+
+.btn-success {
+  background: url("/imgs/success.png");
+}
+
+.btn-error {
+  background: url("/imgs/error.png");
+}/*# sourceMappingURL=style.css.map */

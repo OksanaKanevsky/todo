@@ -1,0 +1,25 @@
+baseColor
+
+body.whatever h2 {
+    color: red;
+}
+
+body.whatever p {
+    line-height: 1.5;
+}
+
+body.whatever input {
+    font-size: 20px;
+}
+
+body.other h2 {
+    color: blue;
+}
+
+body.other p {
+    line-height: 2.5;
+}
+
+body.other input {
+    font-size: 25px;
+}
